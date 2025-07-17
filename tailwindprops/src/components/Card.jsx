@@ -2,7 +2,7 @@ import React from 'react'
 
 function Card({username="User",image}) {
   return (
-<article className="rounded-xl border border-gray-700 bg-gray-800 p-4">
+<article className="rounded-xl border border-gray-700 bg-gray-800 p-4 mb-4">
   <div className="flex items-center gap-4">
     <img
       alt=""
